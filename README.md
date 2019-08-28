@@ -46,3 +46,4 @@ where, image_filename specifies relative or full path to the original image and
 - Transforms RGB to grayscale form
 - Converts the grayscale matrix to ascii string according to the intensity
 
+Image source: [Google logo](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjK37ev16bkAhVUeysKHSIUB6wQMwiGASgOMA4&url=https%3A%2F%2Fwww.dynamicevents.ie%2Fthe-best-off-site-event-ever-google-event-at-palmerstown-house%2Fgoogle-logo-2%2F&psig=AOvVaw1i2Fh2FAbybUtO_yA5weOh&ust=1567120081612632&ictx=3&uact=3)
